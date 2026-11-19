@@ -1,0 +1,102 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="oh-CRE1jidZ3_LLwZZ0X">
+    <mxGraphModel dx="1493" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Obtain hardware described within BoM 66 sensors total and a gateway for server communication" vertex="1">
+          <mxGeometry height="70" width="130" x="349" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-17" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Buy and integrate method used as 2349 sensors used is the minimum to break even and&amp;nbsp; make venture worthwhile and less risk involved within process of buying and integrating." vertex="1">
+          <mxGeometry height="240" width="256" x="285" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-18" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Procurement management: Helen Baker (head of procurement UWE)" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-22" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Procurement List: BoM identify components needed" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vendor list: Siemens, Milesight and Schneider electronics" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-25" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Request quotation from suppliers" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-26" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Make decision of supplier using decision matrix" vertex="1">
+          <mxGeometry height="100" width="113" x="172" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-27" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Raise order for PoC" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-32" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Did PoC pass" vertex="1">
+          <mxGeometry height="80" width="80" x="190" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-31" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="_mSjp9fVBBGzZICkeYHJ-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590.5" y="970" />
+            </Array>
+            <mxPoint x="590.5" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Make decision of supplier if unhappy with PoC" vertex="1">
+          <mxGeometry height="60" width="120" x="541" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-33" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Expedite order" vertex="1">
+          <mxGeometry height="60" width="120" x="172" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-36" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wait for transportation of goods" vertex="1">
+          <mxGeometry height="60" width="120" x="359" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-37" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Receive and inspect goods" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Install inspected goods" vertex="1">
+          <mxGeometry height="60" width="120" x="681" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-16" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-23" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-29" edge="1" parent="1" source="_mSjp9fVBBGzZICkeYHJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.044;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="_mSjp9fVBBGzZICkeYHJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mSjp9fVBBGzZICkeYHJ-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="910" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
